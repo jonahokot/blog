@@ -1,0 +1,13 @@
+.card{
+    margin: 10px;
+}
+.card-img-top{
+height: auto 
+}
+.carousel-inner img{
+    height: 600px
+}
+#pd{
+    padding-left: 0px; padding-right: 0px;
+    
+}
